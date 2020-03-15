@@ -9,7 +9,7 @@ public class ExtremeDivisionTest {
 	public void testExtremeDivide() {
 
 		ExtremeDivision e1 = new ExtremeDivision(16, 4);
-		assertEquals(e1.extremeDivide(), 4);
+		assertEquals(e1.extremeDivide(), 0);
 	}
 
 }
